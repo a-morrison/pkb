@@ -2,3 +2,6 @@ baseURL = "http://example.org/"
 languageCode = "en-us"
 title = "PKB"
 theme = "book"
+
+[params]
+    BookSearch = true
