@@ -1,10 +1,13 @@
 ---
 title: "Git"
 ---
-# Git[^1]
+# Git
+Version Control[^1]
 
-## GitFlow[^2]
-Simple but powerful workflow for stucturing complex git repos.
+## GitFlow
+Simple but powerful workflow for stucturing complex git repos[^2].
+
+EX:
 {{< mermaid >}}
 gitGraph:
 options
