@@ -4,3 +4,5 @@ type: docs
 ---
 
 # Home
+
+Knowledge Base
