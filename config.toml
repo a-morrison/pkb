@@ -1,7 +1,10 @@
-baseURL = "http://example.org/"
+baseURL = "http://apkb.info/"
 languageCode = "en-us"
 title = "PKB"
 theme = "book"
 
+enableGitInfo = true
+
 [params]
     BookSearch = true
+    BookRepo = "https://github.com/a-morrison/pkb"
