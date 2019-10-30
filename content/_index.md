@@ -5,4 +5,4 @@ type: docs
 
 # Home
 
-Knowledge Base
+Knowledge Base Website
