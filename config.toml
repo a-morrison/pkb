@@ -8,3 +8,4 @@ enableGitInfo = true
 [params]
     BookSearch = true
     BookRepo = "https://github.com/a-morrison/pkb"
+    BookToC = 3
